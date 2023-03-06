@@ -1,4 +1,5 @@
-<img src="imgs/dwight2.png" width="300">
+<img src="imgs/dwight2.png" width="300">  
+
 # disco-wight (or **Dwight** for short)
 ## is a **D**etector-**I**ndependent quality **SCO**re **WI**thout **G**round **T**rut**H**
 
