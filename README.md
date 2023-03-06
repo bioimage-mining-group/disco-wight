@@ -1,4 +1,4 @@
-![Dwight](/img/dwight.png "that's dwight")
+![Dwight](/imgs/dwight.png "that's dwight")
 # disco-wight (or **Dwight** for short)
 ## is a **D**etector-**I**ndependent quality **SCO**re **WI**thout **G**round **T**rut**H**
 
