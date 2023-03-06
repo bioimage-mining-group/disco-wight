@@ -1,4 +1,4 @@
-![Dwight](/imgs/dwight2.png "that's dwight")
+<img src="imgs/dwight2.png" width="200" height="200">
 # disco-wight (or **Dwight** for short)
 ## is a **D**etector-**I**ndependent quality **SCO**re **WI**thout **G**round **T**rut**H**
 
