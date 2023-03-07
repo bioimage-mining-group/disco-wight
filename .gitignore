@@ -1,0 +1,8 @@
+*egg-info
+
+*pynb_checkpoints
+
+
+.vscode
+__pycache__
+
