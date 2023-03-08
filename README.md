@@ -22,7 +22,7 @@ To install the repositiory package:
 
 ```bash
 # from repo root (the DOT "." is important !!!)
-cd dwight;pip install -e .
+pip install -e .
 ```
 
 
