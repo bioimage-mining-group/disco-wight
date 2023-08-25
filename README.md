@@ -1,12 +1,12 @@
-<img src="imgs/dwight2.png" width="150">  
+<img src="imgs/dwight.png" width="150">  
 
 # disco-wight (or **Dwight** for short)
 ## is a **D**etector-**I**ndependent quality **SCO**re **WI**thout **G**round **T**rut**H**
 
-This repository contains the scripts used in the paper  
+This repository contains the scripts used in the [paper]  
 *A detector-independent quality score for cell segmentation without ground truth in 3D live fluorescence microscopy*, Vanaret et al. (2023)
 
-# /!\ **This repository will be updated with the scripts in the following months**  
+## Installation
 
 Major dependancies to be installed are :
 - [numpy] : basic library for array manipulation
@@ -25,7 +25,22 @@ To install the repositiory package:
 pip install -e .
 ```
 
+You also need to install the codebase for the software U-track3D from its [repo].
 
+## Data 
+
+The data used in the paper is available at this [link]. *WILL BE MADE AVAILABLE SOON*
+
+## Usage
+
+In the scripts, replace `path_to_root = ...` by the path to the data folder.
+
+
+
+
+[paper]: https://ieeexplore.ieee.org/abstract/document/10123011
+[repo]: https://github.com/DanuserLab/u-track3D
+<!-- [link]: -->
 
 [pip]: https://pypi.org/project/pip
 [numpy]: https://numpy.org
