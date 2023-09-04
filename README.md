@@ -6,7 +6,7 @@
 This repository contains the scripts used in the [paper]  
 *A detector-independent quality score for cell segmentation without ground truth in 3D live fluorescence microscopy*, Vanaret et al. (2023)
 
-<img src="imgs/capture_visual_abstract.PNG" width="500">  
+<img src="imgs/capture_visual_abstract.PNG" width="900">  
 
 ## Installation
 
