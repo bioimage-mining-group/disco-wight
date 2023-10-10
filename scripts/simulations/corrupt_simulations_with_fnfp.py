@@ -1,6 +1,6 @@
 import numpy as np
 from dwight.utils import load_csv_coords
-from dwight.corrupter import SimulationCorrupter
+from dwight.simulation_corrupter import SimulationCorrupter
 import os
 import csv
 from tqdm import tqdm
